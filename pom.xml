@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.dmt</groupId>
-	<artifactId>ifconfig2</artifactId>
+	<artifactId>ifconfig</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>ifconfig2</name>
+	<name>ifconfig</name>
 	<description>Demo project for Spring Boot</description>
 
 	<parent>
