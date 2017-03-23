@@ -7,7 +7,7 @@ import javax.servlet.http.HttpServletRequest;
 @RestController
 public class IfconfigController {
     
-    @RequestMapping("/ip")
+    @RequestMapping("/")
     public String Ifconfig(HttpServletRequest request) {
     	//is client behind something?
     	String ipAddress = request.getHeader("X-FORWARDED-FOR");
