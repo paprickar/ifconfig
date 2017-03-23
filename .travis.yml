@@ -4,6 +4,7 @@ jdk:
 script: 
 - ./mvnw test -B
 - ./mvnw install -DskipTests=true -Dmaven.javadoc.skip=true -B -V
+- ./mvnw cobertura:cobertura
 
 after_success:
 - bash <(curl -s https://codecov.io/bash)
