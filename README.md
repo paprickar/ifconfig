@@ -2,7 +2,6 @@
 [![codecov](https://codecov.io/gh/paprickar/ifconfig/branch/master/graph/badge.svg)](https://codecov.io/gh/paprickar/ifconfig)
 [![Downloads](https://img.shields.io/github/downloads/paprickar/ifconfig/total.svg)](https://github.com/paprickar/ifconfig)
 [![Releases](https://img.shields.io/github/release/paprickar/ifconfig.svg)](https://github.com/paprickar/ifconfig)
-[![GitHub commits](https://img.shields.io/github/commits-since/SubtitleEdit/subtitleedit/3.4.7.svg)](https://github.com/paprickar/ifconfig)
 [![Issues](https://img.shields.io/github/issues/paprickar/ifconfig.svg)](https://github.com/paprickar/ifconfig)
 
 # Test
